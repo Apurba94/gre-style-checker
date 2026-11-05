@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-style-checker", "title": "Writing Style Checker", "exam": "GRE", "area": "GRE Writing and Planning", "desc": "Paste any essay to see sentence length, passive voice, repeated words and linking words.", "content": [], "n": 39};
